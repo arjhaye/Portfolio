@@ -41,7 +41,7 @@ const Portfolio = () => {
                 modalplatform: <FaLaptop />,
                 modalplatform1: <FaMobileAlt />,
                 modalplatform2: <FaNetworkWired />,
-                modallink: "https://github.com/arjhaye/Gastro"
+                modallink: "http://cc-grade-performance.infinityfreeapp.com/Gastro/"
             },
             {
                 id:2,
