@@ -31,7 +31,7 @@ const Portfolio = () => {
                 id:1,
                 cardimage: image[0],
                 title: 'GASTRO PUB MANAGEMENT SYSTEM',
-                text: 'HTML5/CSS3/BOOTSTRAP/PHP/JS',
+                text: 'HTML5 / CSS3 / BOOTSTRAP / PHP / JS',
                 description: 'A web based design for bar&restaurant management',
                 modalimage1: image[1],
                 modalimage2: image[2],
@@ -41,13 +41,13 @@ const Portfolio = () => {
                 modalplatform: <FaLaptop />,
                 modalplatform1: <FaMobileAlt />,
                 modalplatform2: <FaNetworkWired />,
-                modallink: "http://cc-grade-performance.infinityfreeapp.com/Gastro/"
+                modallink: "http://cc-grade-performance.infinityfreeapp.com/Gastro/pages/login.html"
             },
             {
                 id:2,
                 cardimage: image[4],
                 title: 'E-SIM QUIZ for JUNIOR HIGHSCHOOL',
-                text: 'JSON/JS/HTML/CSS3',
+                text: 'JSON / JS / HTML / CSS3',
                 description: 'A web application for junior conjunction quiz',
                 modalimage1: image[5],
                 modalimage2: image[6],
@@ -61,7 +61,7 @@ const Portfolio = () => {
                 id:3,
                 cardimage: image[8],
                 title: 'WEB-BASED PERFORMANCE and GRADE ANALYTICS for STUDENT OF COLLEGE OF COMPUTER STUDIES, COLUMBAN COLLEGE',
-                text: 'HTML5/CSS3/BOOTSTRAP/PHP/JS/JSON',
+                text: 'HTML5 / CSS3 / BOOTSTRAP / PHP / JS / JSON',
                 description: 'A web based system for student performance and grade analytics management',
                 modalimage1: image[9],
                 modalimage2: image[10],
