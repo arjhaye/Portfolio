@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f37dc327.chunk.css",
+    "main.js": "/Portfolio/static/js/main.dde0773e.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.dde0773e.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.5c356271.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.5c356271.js.map",
+    "static/css/2.658248ec.chunk.css": "/Portfolio/static/css/2.658248ec.chunk.css",
+    "static/js/2.5ebf91ea.chunk.js": "/Portfolio/static/js/2.5ebf91ea.chunk.js",
+    "static/js/2.5ebf91ea.chunk.js.map": "/Portfolio/static/js/2.5ebf91ea.chunk.js.map",
+    "static/js/3.b11e745a.chunk.js": "/Portfolio/static/js/3.b11e745a.chunk.js",
+    "static/js/3.b11e745a.chunk.js.map": "/Portfolio/static/js/3.b11e745a.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/Portfolio/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.f37dc327.chunk.css.map": "/Portfolio/static/css/main.f37dc327.chunk.css.map",
+    "static/js/2.5ebf91ea.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.5ebf91ea.chunk.js.LICENSE.txt",
+    "static/media/aboutme.4c207404.jpg": "/Portfolio/static/media/aboutme.4c207404.jpg",
+    "static/media/App.css": "/Portfolio/static/media/bg.4b37b77a.jpg",
+    "static/media/conjunction_a1.55185bcd.png": "/Portfolio/static/media/conjunction_a1.55185bcd.png",
+    "static/media/conjunction_ac1.a5d95d53.png": "/Portfolio/static/media/conjunction_ac1.a5d95d53.png",
+    "static/media/conjunction_credit.743bd3ce.png": "/Portfolio/static/media/conjunction_credit.743bd3ce.png",
+    "static/media/esim.ab5f2c86.png": "/Portfolio/static/media/esim.ab5f2c86.png",
+    "static/media/gastro.22b4f11a.PNG": "/Portfolio/static/media/gastro.22b4f11a.PNG",
+    "static/media/gastro_c.7a622e25.png": "/Portfolio/static/media/gastro_c.7a622e25.png",
+    "static/media/gastro_dl.3bc8b7a3.png": "/Portfolio/static/media/gastro_dl.3bc8b7a3.png",
+    "static/media/gastro_fl.de1008b2.png": "/Portfolio/static/media/gastro_fl.de1008b2.png",
+    "static/media/me.e74f4a16.png": "/Portfolio/static/media/me.e74f4a16.png",
+    "static/media/thesis.cf53031e.png": "/Portfolio/static/media/thesis.cf53031e.png",
+    "static/media/thesis_as.cda61e4f.png": "/Portfolio/static/media/thesis_as.cda61e4f.png",
+    "static/media/thesis_p.ebcc963c.png": "/Portfolio/static/media/thesis_p.ebcc963c.png",
+    "static/media/thesis_ssl.dbb03698.png": "/Portfolio/static/media/thesis_ssl.dbb03698.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c356271.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.5ebf91ea.chunk.js",
+    "static/css/main.f37dc327.chunk.css",
+    "static/js/main.dde0773e.chunk.js"
+  ]
+}
